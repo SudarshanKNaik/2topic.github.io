@@ -70,6 +70,7 @@
 <section>
     <h2>Selected Business Models</h2>
     <li>Rohan Rathod:1)wildlife managment sector 2)hospitality and service manangement 
+        <a href="./rohan.html"></a>
     </li>
      <li>Vraj Joisar:1)industrial sector 2)trasportation and communication 
     </li>
